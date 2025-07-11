@@ -18,14 +18,14 @@ Features :
 
 Technologies Used : 
 
-Java – Core programming language.
-Hibernate ORM – For object-relational mapping between Java classes and database tables.
-Jakarta Persistence (JPA) – For entity annotations like @Entity, @Id, @ManyToOne.
-PostgreSQL – Relational database used for data storage.
-Maven – Build and dependency management tool (pom.xml).
-Hibernate Configuration XML – Used to define database connection and entity mappings (hibernate.cfg.xml).
-JDBC (Java Database Connectivity) – Underlying connection mechanism between Java and PostgreSQL.
-Eclipse IDE / Spring Tool Suite – Development environment (based on your folder path).
+* Java – Core programming language.
+* Hibernate ORM – For object-relational mapping between Java classes and database tables.
+* Jakarta Persistence (JPA) – For entity annotations like @Entity, @Id, @ManyToOne.
+* PostgreSQL – Relational database used for data storage.
+* Maven – Build and dependency management tool (pom.xml).
+* Hibernate Configuration XML – Used to define database connection and entity mappings (hibernate.cfg.xml).
+* JDBC (Java Database Connectivity) – Underlying connection mechanism between Java and PostgreSQL.
+* Eclipse IDE / Spring Tool Suite – Development environment (based on your folder path).
 
 Dependencies :
 
